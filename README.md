@@ -1,10 +1,10 @@
 # Project Name
 
-> New York Times article page clone.
+> Project Title.
 
 ![screenshot](./app_screenshot.png)
 
-A clone of New York Times article page.
+Project description.
 
 ## Built With
 
